@@ -240,9 +240,55 @@
     }
   ],
   "publications": [
-    <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-    {% endfor %}</ul>
+     {
+      "name": "Evaluate Fast‑Charging Stability of Commercial NMC811/Graphite Li‑ion Battery through Pulsating Techniques",
+      "publisher": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted conference paper."
+    },
+    {
+      "name": "Feasibility Analysis of Utilizing Second‑Life eVTOL Batteries in Off‑Grid EV Charging Stations",
+      "publisher": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted conference paper. Co‑authors: M. Haddadin, Y. Yassin, S. Al‑Hallaj, M. Krishnamurthy."
+    },
+    {
+      "name": "Pulsed Preheating of High‑Power and High‑Energy Lithium‑Ion Cells in Extreme Cold Temperature",
+      "publisher": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted conference paper. Co‑authors: Y. Yassin, M. Haddadin, S. Al‑Hallaj, M. Krishnamurthy."
+    },
+    {
+      "name": "Dynamic Fast‑Charging Control with Age‑Aware BMS for Enhanced Stability and Efficiency in Li‑ion Batteries",
+      "publisher": "IEEE Open Journal of the Industrial Electronics Society",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Submitted manuscript."
+    },
+    {
+      "name": "Real‑Time Electrochemical Model‑Based BMS Control for Mitigating Li‑Plating and Extending Battery Life",
+      "publisher": "IEEE Transactions on Transportation Electrification",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1109/TTE.2025.3527899",
+      "summary": ""
+    },
+    {
+      "name": "Synthetic Data‑Integrated Li‑ion Battery Modeling for eVTOL Energy Systems",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024-01",
+      "url": "",
+      "summary": "IEEE Access, vol. 12, pp. 76329–76343."
+    },
+    {
+      "name": "Parameter Identification and Sliding Pressure Control of a Supercritical Power Plant Using Whale Optimizer",
+      "publisher": "Sustainability",
+      "releaseDate": "2022-06",
+      "url": "",
+      "summary": "Sustainability, 14(13), 8039."
+    }
   ],
   "awards": [
     {
