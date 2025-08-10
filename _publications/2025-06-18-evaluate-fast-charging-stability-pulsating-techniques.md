@@ -1,7 +1,7 @@
 ---
 title: "Evaluate Fast‑Charging Stability of Commercial NMC811/Graphite Li‑ion Battery through Pulsating Techniques"
 collection: "publications"
-category: "conference"
+category: "conferences"
 permalink: "/publication/2025-06-18-itex-fast-charging-stability-pulsating"
 excerpt: "Experimental and simulation study of pulsating current techniques to assess and improve fast‑charging stability of commercial NMC811/graphite cells."
 date: "2025-06-18"
