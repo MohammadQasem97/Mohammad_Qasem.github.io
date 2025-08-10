@@ -1,7 +1,7 @@
 ---
 title: "Power Electronics Laboratory (TA)"
 collection: teaching
-type: "Undergraduate/graduate course"
+type: "Undergraduate/graduate laboratory"
 permalink: /teaching/2023-spring-power-electronics-lab-iit
 venue: "Illinois Institute of Technology, ECE Department"
 date: 2023-01-01
