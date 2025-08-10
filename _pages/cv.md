@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 <a class="btn btn--primary btn--large"
-   href="https://MohammadQasem97/Mohammad_Qasem.github.io/files/cv.pdf"
-   target="_blank" rel="noopener">Download CV (PDF)</a>
+   href="{{ '/files/Mohammad_Qasem_CV.pdf' | absolute_url }}"
+   target="_blank" rel="noopener">
+  Download CV (PDF)
+</a>
 
 
 Education
