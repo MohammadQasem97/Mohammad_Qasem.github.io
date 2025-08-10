@@ -9,7 +9,7 @@ classes: wide
 <div class="mq-hero">
   <div class="mq-hero__inner">
     <div class="mq-hero__left">
-      <img class="mq-hero__avatar" src="{{ '/images/bio-photo.jpg' | relative_url }}" alt="Mohammad Qasem">
+      <img class="mq-hero__avatar" src="{{ '/images/MQ.JPG' | relative_url }}" alt="Mohammad Qasem">
       <div class="mq-hero__identity">
         <h1 class="mq-hero__name">Mohammad Qasem</h1>
         <div class="mq-hero__title">Ph.D. Candidate in Electrical Engineering</div>
