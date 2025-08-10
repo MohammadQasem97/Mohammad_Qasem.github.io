@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <a class="btn btn--primary btn--large"
-   href="https://MohammadQasem97.github.io/Mohammad_Qasem.github.io/files/cv.pdf"
+   href="https://MohammadQasem97.github.io/Mohammad_Qasem.github.io/files/MQ_CV.pdf"
    target="_blank" rel="noopener">Download CV (PDF)</a>
 
 
