@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+</div>
+
+
 Education
 ======
 * **Ph.D. in Electrical Engineering**, Southern Methodist University (SMU), Dallas, TX — Aug. 2024–present  
