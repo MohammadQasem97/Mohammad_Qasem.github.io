@@ -6,22 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{
-  "basics": {
-    "name": "Mohammad Qasem",
-    "email": "mqasem@smu.edu",
-    "phone": "+1 (312) 702-9131",
-    "summary": "Ph.D. candidate specializing in lithium‑ion battery modeling, fast‑charging control, and BMS design. Research focuses on real‑time electrochemical models, digital twins, and AI‑based health estimation; experienced in cell/pack testing and embedded implementation.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Dallas",
-      "countryCode": "US",
-      "region": "Texas"
-    },
-    "profiles": []
-  },
 
+{% include cv-template.html %}
 
 Education
 ======
