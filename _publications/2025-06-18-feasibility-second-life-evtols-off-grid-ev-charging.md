@@ -7,6 +7,6 @@ excerpt: "Techno‑economic feasibility of repurposing eVTOL second‑life batte
 date: "2025-06-18"
 venue: "IEEE Transportation Electrification Conference and Expo (ITEC), Anaheim, CA, USA"
 paperurl: "https://ieeexplore.ieee.org/document/11098154"
-citation: "Haddadin, Mariana and Qasem, Mohammad and Yassin, Yazan and Al-Hallaj, Said and Krishnamurthy, Mahesh. \"Feasibility Analysis of Utilizing Second‑Life eVTOL Batteries in Off‑Grid EV Charging Stations.\" In <i>Proc. IEEE ITEC 2025</i>, Anaheim, CA, USA."
+citation: "Haddadin, Mariana and Qasem, Mohammad and Yassin, Yazan and Al-Hallaj, Said and Krishnamurthy, Mahesh (2025). \"Feasibility Analysis of Utilizing Second‑Life eVTOL Batteries in Off‑Grid EV Charging Stations.\" In <i>Proc. IEEE ITEC 2025</i>, Anaheim, CA, USA."
 ---
 This research investigates the feasibility of incorporating second-life batteries (SLBs) from electric vertical take-off and landing (eVTOL) aircraft into multipurpose garage parking off-grid PV electric vehicle charging stations (EVCS). The suggested EVCS is used to evaluate the aging characteristics of both first-life (FL) and second-life (SL) batteries.
