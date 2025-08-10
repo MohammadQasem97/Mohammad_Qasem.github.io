@@ -25,7 +25,7 @@ author:
   avatar           : "MQ.JPG"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate In Electrical Engineering"
   location         : "Dallas, Texas "
   employer         : "Southern Methodist Univeristy"
   uri              : # URL
@@ -279,13 +279,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 
 # Sass/SCSS
