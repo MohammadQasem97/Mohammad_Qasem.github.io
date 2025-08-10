@@ -1,0 +1,398 @@
+{
+  "basics": {
+    "name": "Mohammad Qasem",
+    "email": "mqasem@mail.smu.edu",
+    "phone": "+1 (312) 702-9131",
+    "website": "",
+    "summary": "Ph.D. candidate specializing in lithium‑ion battery modeling, fast‑charging control, and BMS design. Research focuses on real‑time electrochemical models, digital twins, and AI‑based health estimation; experienced in cell/pack testing and embedded implementation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Dallas",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Southern Methodist University (SMU)",
+      "position": "Research Assistant",
+      "location": "Dallas, TX, USA",
+      "startDate": "2024-08",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Develop real‑time electrochemical battery models for fast charging.",
+        "Implement digital‑twin and AI‑based battery health estimation.",
+        "Design battery management systems (BMS) for enhanced durability."
+      ]
+    },
+    {
+      "name": "Gamma Technologies, Inc.",
+      "position": "Battery Application Engineer – Intern",
+      "location": "Westmont, IL, USA",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "",
+      "highlights": [
+        "Developed a Battery Power Limit Controller to optimize charging profiles.",
+        "Implemented SoC/SoH estimation algorithms for lithium‑ion batteries.",
+        "Designed and validated cell balancing and monitoring systems."
+      ]
+    },
+    {
+      "name": "Illinois Institute of Technology (IIT)",
+      "position": "Research Assistant",
+      "location": "Chicago, IL, USA",
+      "startDate": "2023-01",
+      "endDate": "2024-07",
+      "summary": "",
+      "highlights": [
+        "Conducted research on battery modeling and state estimation algorithms.",
+        "Executed comprehensive lithium‑ion cell/pack testing campaigns.",
+        "Designed charging controllers and custom PCBs for BMS experimental validation."
+      ]
+    },
+    {
+      "name": "Illinois Institute of Technology (IIT)",
+      "position": "Teaching Assistant",
+      "location": "Chicago, IL, USA",
+      "startDate": "2023-01",
+      "endDate": "2024-07",
+      "summary": "Laboratory teaching and support.",
+      "highlights": [
+        "Power Electronics Laboratory.",
+        "Hybrid Electric Vehicle Drives Laboratory."
+      ]
+    },
+    {
+      "name": "Princess Sumaya University for Technology (PSUT)",
+      "position": "Laboratory Supervisor and Instructor",
+      "location": "Amman, Jordan",
+      "startDate": "2021-09",
+      "endDate": "2023-01",
+      "summary": "",
+      "highlights": [
+        "Taught power electronics: AC–DC, DC–DC, DC–AC converters.",
+        "Taught electric machines and transformers; operation and construction.",
+        "Led renewable energy labs: on/off‑grid PV design, Li‑ion & lead‑acid batteries in PV systems, wind turbines."
+      ]
+    },
+    {
+      "name": "Princess Sumaya University for Technology (PSUT)",
+      "position": "Teaching Assistant",
+      "location": "Amman, Jordan",
+      "startDate": "2020-02",
+      "endDate": "2021-09",
+      "summary": "Teaching assistance across multiple courses.",
+      "highlights": [
+        "Renewable Energy Systems, Digital Electronics, Power Electronics, Power System Analysis, Electric Machines."
+      ]
+    },
+    {
+      "name": "Golden Energy for Engineering Service",
+      "position": "Technical Design Engineer",
+      "location": "Amman, Jordan",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      "summary": "",
+      "highlights": [
+        "Designed and sized solar PV systems.",
+        "Designed HVAC, heating under‑floor (HUF), and radiator systems.",
+        "Performed solar radiation measurement and evaluation; produced 3D project drawings (SketchUp)."
+      ]
+    },
+    {
+      "name": "Electric Distribution Company (EDCO)",
+      "position": "Trainee",
+      "location": "Amman, Jordan",
+      "startDate": "2018-12",
+      "endDate": "2019-05",
+      "summary": "",
+      "highlights": [
+        "Built electrical control panels for hospitals, industry, and residential applications.",
+        "Operated and maintained motors and inverters."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southern Methodist University (SMU)",
+      "area": "Electrical Engineering",
+      "studyType": "Ph.D. (in progress; transferred from IIT)",
+      "startDate": "2024-08",
+      "endDate": "",
+      "score": "4.0/4.0",
+      "location": "Dallas, TX, USA",
+      "courses": [],
+      "summary": "Interests: real‑time battery modeling, fast‑charging control, BMS design, aging models, digital twin, AI for battery health estimation, cell and pack testing."
+    },
+    {
+      "institution": "Illinois Institute of Technology (IIT)",
+      "area": "Electrical Engineering",
+      "studyType": "Ph.D. (transferred to SMU)",
+      "startDate": "2023-01",
+      "endDate": "2024-08",
+      "score": "4.0/4.0",
+      "location": "Chicago, IL, USA",
+      "courses": [],
+      "summary": "Battery modeling; SoC/SoH estimation; lithium‑ion cell and pack testing."
+    },
+    {
+      "institution": "Princess Sumaya University for Technology (PSUT)",
+      "area": "Electrical Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2020-02",
+      "endDate": "2023-01",
+      "score": "93.1/100 (Ranked 1st)",
+      "location": "Amman, Jordan",
+      "courses": [],
+      "summary": "Power‑plant modeling, meta‑heuristic optimization, control systems, power electronics, renewable energy."
+    },
+    {
+      "institution": "Al‑Balqa’ Applied University (BAU)",
+      "area": "Electrical Power Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "score": "3.38/4.00 (Ranked 2nd)",
+      "location": "Amman, Jordan",
+      "courses": [
+        "Power Systems",
+        "Power Electronics",
+        "High‑Voltage Systems",
+        "Power System Protection",
+        "Operation and Control"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming and Modeling",
+      "keywords": [
+        "MATLAB/Simulink",
+        "GT‑Suite",
+        "Python",
+        "Altium Designer",
+        "PSIM",
+        "PSpice",
+        "C++",
+        "ETAP",
+        "MS Office"
+      ]
+    },
+    {
+      "name": "CAD and Tools",
+      "keywords": [
+        "SketchUp",
+        "AutoCAD",
+        "PV*SOL / PV System",
+        "Tinkercad"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Very good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Real‑time battery modeling",
+        "Fast‑charging control",
+        "Battery Management Systems (BMS)",
+        "Aging models",
+        "Digital twin",
+        "AI for battery health estimation",
+        "Cell and pack testing"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Intelligent Sliding Pressure Control for a Supercritical Power Plant",
+      "startDate": "2022-11",
+      "endDate": "2022-11",
+      "url": "",
+      "summary": "Developed meta‑heuristic‑optimized sliding pressure control; improved response time and efficiency; implemented and validated in MATLAB/Simulink."
+    },
+    {
+      "name": "Large‑Scale PV Integration with the Jordanian Grid",
+      "startDate": "2019-06",
+      "endDate": "2019-06",
+      "summary": "Case study of 300 MW PV plant integration and grid‑level impacts."
+    },
+    {
+      "name": "Course Projects (selected)",
+      "summary": "Power electronics and embedded systems builds across multiple courses.",
+      "highlights": [
+        "Full‑bridge inverter with LC filter; 3D printer with CNC; adaptive cruise control; Arduino tachometer and motor speed control.",
+        "Smart firefighter robot using HCS12 and Arduino.",
+        "Home automation with solar panels (MCU Node); solar tracker using PIC microcontroller."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Evaluate Fast‑Charging Stability of Commercial NMC811/Graphite Li‑ion Battery through Pulsating Techniques",
+      "publisher": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted conference paper."
+    },
+    {
+      "name": "Feasibility Analysis of Utilizing Second‑Life eVTOL Batteries in Off‑Grid EV Charging Stations",
+      "publisher": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted conference paper. Co‑authors: M. Haddadin, Y. Yassin, S. Al‑Hallaj, M. Krishnamurthy."
+    },
+    {
+      "name": "Pulsed Preheating of High‑Power and High‑Energy Lithium‑Ion Cells in Extreme Cold Temperature",
+      "publisher": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted conference paper. Co‑authors: Y. Yassin, M. Haddadin, S. Al‑Hallaj, M. Krishnamurthy."
+    },
+    {
+      "name": "Dynamic Fast‑Charging Control with Age‑Aware BMS for Enhanced Stability and Efficiency in Li‑ion Batteries",
+      "publisher": "IEEE Open Journal of the Industrial Electronics Society",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Submitted manuscript."
+    },
+    {
+      "name": "Real‑Time Electrochemical Model‑Based BMS Control for Mitigating Li‑Plating and Extending Battery Life",
+      "publisher": "IEEE Transactions on Transportation Electrification",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1109/TTE.2025.3527899",
+      "summary": ""
+    },
+    {
+      "name": "Synthetic Data‑Integrated Li‑ion Battery Modeling for eVTOL Energy Systems",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024-01",
+      "url": "",
+      "summary": "IEEE Access, vol. 12, pp. 76329–76343."
+    },
+    {
+      "name": "Parameter Identification and Sliding Pressure Control of a Supercritical Power Plant Using Whale Optimizer",
+      "publisher": "Sustainability",
+      "releaseDate": "2022-06",
+      "url": "",
+      "summary": "Sustainability, 14(13), 8039."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Student Paper, ITEC+ 2025",
+      "date": "2025-06"
+    },
+    {
+      "title": "Frederick E. Terman Award in Electrical Engineering (SMU)",
+      "date": "2025-05"
+    },
+    {
+      "title": "Excellence in Research and Innovation Award (SMU)",
+      "date": "2025-05"
+    },
+    {
+      "title": "Dean’s Dissertation Fellowship (SMU)",
+      "date": "2025-04"
+    },
+    {
+      "title": "Best Presentation Award for Ph.D. Research",
+      "date": "2024-04"
+    },
+    {
+      "title": "Paul McCoy Fellowship (IIT)",
+      "date": "2024-02"
+    },
+    {
+      "title": "Beam Global Fellowship (IIT)",
+      "date": "2023-01"
+    },
+    {
+      "title": "Graduate Scholarship for Top Class Rank (PSUT)",
+      "date": "2019-12"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Battery State of Charge Estimation",
+      "issuer": "University of Colorado"
+    },
+    {
+      "name": "Certified Energy Manager (CEM)"
+    },
+    {
+      "name": "RETScreen Program Certificate"
+    },
+    {
+      "name": "Advanced Training: Promoting Renewable Energy Projects"
+    },
+    {
+      "name": "Advanced Training: Green Financing"
+    },
+    {
+      "name": "Design of Energy‑Efficient Lighting Systems"
+    },
+    {
+      "name": "Applied Photovoltaic Systems"
+    },
+    {
+      "name": "Circular Economy and Resource Efficient and Cleaner Production (RECP) Training"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Power Electronics Laboratory",
+      "institution": "Illinois Institute of Technology (IIT)",
+      "date": "2023-01 to 2024-07",
+      "role": "Teaching Assistant"
+    },
+    {
+      "course": "Hybrid Electric Vehicle Drives Laboratory",
+      "institution": "Illinois Institute of Technology (IIT)",
+      "date": "2023-01 to 2024-07",
+      "role": "Teaching Assistant"
+    },
+    {
+      "course": "Power Electronics Laboratory; Electric Machines; Renewable Energy Laboratory",
+      "institution": "Princess Sumaya University for Technology (PSUT)",
+      "date": "2021-09 to 2023-01",
+      "role": "Laboratory Supervisor and Instructor"
+    },
+    {
+      "course": "Renewable Energy Systems; Digital Electronics; Power Electronics; Power System Analysis; Electric Machines",
+      "institution": "Princess Sumaya University for Technology (PSUT)",
+      "date": "2020-02 to 2021-09",
+      "role": "Teaching Assistant"
+    }
+  ],
+  "references": [
+    {
+      "name": "Mahesh Krishnamurthy, Ph.D.",
+      "reference": "Department Chair, Electrical & Computer Engineering; Co‑Executive Director, Hart Institute for Technology, Innovation and Entrepreneurship, SMU.",
+      "email": "kmahesh@smu.edu"
+    },
+    {
+      "name": "Said Al‑Hallaj, Ph.D.",
+      "reference": "Chief Battery Scientist; CEO of AllCell Technologies LLC, Beam Global.",
+      "email": "saidalhallaj@beamforall.com"
+    },
+    {
+      "name": "Wejdan Abu‑Elhaija, Ph.D.",
+      "reference": "Professor; President of Princess Sumaya University for Technology (PSUT).",
+      "email": "elhaija@psut.edu.jo"
+    }
+  ]
+}
