@@ -7,7 +7,7 @@ excerpt: 'This work presents a novel methodology that integrates synthetic datas
 date: 2024-01-01
 venue: 'IEEE Access'
 slidesurl: ''
-paperurl: 'https://ieeexplore.ieee.org/document/10508350'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10540386'
 bibtexurl: ''
 citation: 'M. Qasem, S. Al-Hallaj, M. Krishnamurthy, and Y. Yassin. (2024). "Synthetic Data-Integrated Li-ion Battery Modeling for eVTOL Energy Systems." <i>IEEE Access</i>, 12, 76329–76343.'
 ---
