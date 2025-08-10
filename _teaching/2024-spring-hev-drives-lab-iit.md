@@ -2,9 +2,9 @@
 title: "Hybrid Electric Vehicle Drives Laboratory (TA)"
 collection: teaching
 type: "Undergraduate/graduate laboratory"
-permalink: /teaching/2023-fall-hev-drives-lab-iit
+permalink: /teaching/2024-spring-hev-drives-lab-iit
 venue: "Illinois Institute of Technology, ECE Department"
-date: 2023-09-01
+date: 2024-02-01
 location: "Chicago, USA"
 ---
 
