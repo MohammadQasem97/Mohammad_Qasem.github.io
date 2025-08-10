@@ -1,7 +1,7 @@
 ---
 title: "Feasibility Analysis of Utilizing Second‑Life eVTOL Batteries in Off‑Grid EV Charging Stations"
 collection: "publications"
-category: "conference"
+category: "conferences"
 permalink: "/publication/2025-06-18-itex-second-life-evtols-offgrid-charging"
 excerpt: "Techno‑economic feasibility of repurposing eVTOL second‑life batteries for off‑grid EV charging with adaptive power‑sharing control."
 date: "2025-06-18"
