@@ -1,12 +1,14 @@
 ---
 title: "Real-Time Electrochemical Model-Based BMS Control for Mitigating Li-Plating and Extending Battery Life"
 collection: "publications"
-category: "manuscripts"
-permalink: "/publication/2025-01-07-synthetic-data-integrated-li-ion-battery-modeling-evtolsss"
-excerpt: "This work presents a methodology that integrates synthetic datasets with electrochemical modeling to evaluate Li-ion battery performance in eVTOL energy systems. The study combines physics-based models with data-driven approaches to enhance prediction accuracy for high-power, high-energy aviation applications."
-date: "2024-01-01"
-venue: "IEEE Access"
-paperurl: "https://ieeexplore.ieee.org/abstract/document/10540386"
-citation: "Qasem, Mohammad; Stoyanov, Stoyan; Ratrout, Sadam; Haddadin, Mariana; Yassin, Yazan; Chen, Chengxiu; Al-Hallaj, Said; Krishnamurthy, Mahesh. (2024). \"Synthetic Data-Integrated Li-ion Battery Modeling for eVTOL Energy Systems.\" <i>IEEE Access</i>, 12, 76329–76343."
+category: "journal"
+permalink: "/publication/2025-01-01-real-time-ecm-bms-li-plating"
+excerpt: "Presents and experimentally validates a real-time electrochemical-model–based fast-charging controller embedded in a BMS that suppresses lithium plating while maintaining fast-charge performance on commercial 21700 cells."
+date: "2025-01-01"
+venue: "IEEE Transactions on Transportation Electrification"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10835219"
+doi: "10.1109/TTE.2025.3527899"
+citation: "Qasem, Mohammad; Haddadin, Mariana; Yassin, Yazan; Ratrout, Sadam; Chen, Chengxiu; Stoyanov, Stoyan; Al-Hallaj, Said; Krishnamurthy, Mahesh. (2025). \"Real-Time Electrochemical Model-Based BMS Control for Mitigating Li-Plating and Extending Battery Life.\" <i>IEEE Transactions on Transportation Electrification</i>. https://doi.org/10.1109/TTE.2025.3527899."
 ---
-This paper develops a hybrid framework leveraging synthetic datasets derived from physics-based battery models and experimental cycling profiles to optimize Li-ion battery performance prediction for electric vertical take-off and landing (eVTOL) applications. By incorporating synthetic data into model parameterization, the approach addresses limited availability of real-world flight test data and improves estimation of state-of-charge (SoC) and state-of-health (SoH). Validation against commercial NMC811/graphite cells demonstrates agreement across C-rates and mission profiles, supporting accelerated development of aerial mobility battery systems.
+
+This paper implements a reduced-order electrochemical model with lithium-plating side reactions on embedded BMS hardware and designs a plating-aware charging controller. Experiments on commercial 21700 cells show that the controller mitigates plating while preserving practical charge times, highlighting a path to health-aware fast charging suitable for deployment.
