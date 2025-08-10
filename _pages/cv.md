@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+{% include cv-template.html %}
 
 Education
 ======
