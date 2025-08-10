@@ -1,5 +1,5 @@
 ---
-title: "A Comparative Review of Age-Aware Fast Charging Techniques for Advanced Battery Management Systems (Under Review)"
+title: "A Comparative Review of Age-Aware Fast Charging Techniques for Advanced Battery Management Systems (In Progress)"
 collection: "publications"
 category: "manuscripts"
 permalink: "/publication/2025-08-09-a-comparitive-review-fast-charging"
