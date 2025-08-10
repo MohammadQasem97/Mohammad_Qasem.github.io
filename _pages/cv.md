@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<a class="btn btn--primary btn--large" href="{{ '/files/Mohammad_Qasem_CV.pdf' | relative_url }}" target="_blank" rel="noopener">
+<a class="btn btn--primary btn--large"
+   href="{{ '/files/Mohammad_Qasem_CV.pdf' | absolute_url }}"
+   target="_blank" rel="noopener">
   Download CV (PDF)
 </a>
+
 
 Education
 ======
