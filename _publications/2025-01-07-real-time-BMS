@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Electrochemical Model-Based BMS Control for Mitigating Li-Plating and Extending Battery Life"
 collection: "publications"
-category: "journal"
+category: "manuscripts"
 permalink: "/publication/2025-01-01-real-time-ecm-bms-li-plating"
 excerpt: "Presents and experimentally validates a real-time electrochemical-model–based fast-charging controller embedded in a BMS that suppresses lithium plating while maintaining fast-charge performance on commercial 21700 cells."
 date: "2025-01-01"
