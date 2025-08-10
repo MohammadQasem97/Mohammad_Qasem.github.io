@@ -2,7 +2,7 @@
 title: "Synthetic Data-Integrated Li-ion Battery Modeling for eVTOL Energy Systems"
 collection: "publications"
 category: "manuscripts"
-permalink: "/publication/2024-01-01-synthetic-data-integrated-li-ion-battery-modeling-evtols"
+permalink: "/publication/2024-05-29-synthetic-data-integrated-li-ion-battery-modeling-evtols"
 excerpt: "This work presents a methodology that integrates synthetic datasets with electrochemical modeling to evaluate Li-ion battery performance in eVTOL energy systems. The study combines physics-based models with data-driven approaches to enhance prediction accuracy for high-power, high-energy aviation applications."
 date: "2024-05-29"
 venue: "IEEE Access"
