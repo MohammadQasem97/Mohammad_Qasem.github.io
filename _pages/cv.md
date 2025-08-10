@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/Mohammad_Qasem_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
 
 
 Education
