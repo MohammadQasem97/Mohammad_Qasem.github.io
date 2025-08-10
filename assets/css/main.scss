@@ -8,10 +8,8 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 ---
-# Only the main Sass file needs front matter
+@import "about-hero"; 
 ---
-@import "about-hero";  // <-- add this line
-
 @import
     "vendor/breakpoint/breakpoint",
 
