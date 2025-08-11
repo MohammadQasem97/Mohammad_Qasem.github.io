@@ -1,7 +1,7 @@
 ---
 title: "Best Student Paper — ITEC+ 2025"
 date: 2025-06-20
-permalink: /posts/2025/06/itec-2025-best-student-paper/
+permalink: /posts/2025-06-itec-2025-best-student-paper/
 tags: [ITEC2025, FastCharging, LithiumIonBatteries, Awards]
 ---
 
