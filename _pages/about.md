@@ -44,5 +44,5 @@ redirect_from:
 </div>
 
 
-### Awards
+### Recent Awards
 🏆 ITEC+ **Best Student Paper (2025)** · 🏅 **Excellence in Research & Innovation** (SMU) · 🎖️ **Frederick E. Terman Award** (SMU ECE) · 🎓 **Dean’s Moody Dissertation Fellowship**
