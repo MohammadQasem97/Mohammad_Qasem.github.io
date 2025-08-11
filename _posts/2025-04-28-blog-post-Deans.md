@@ -1,7 +1,7 @@
 ---
 title: 'Moody Dean’s Dissertation Fellowship — SMU Lyle'
-date: 2025-05-20
-permalink: /posts/2025-05-20-blog-post-Deans/
+date: 2025-04-28
+permalink: /posts/2025-04-28-blog-post-Deans/
 tags:
   - Awards
   - Research
