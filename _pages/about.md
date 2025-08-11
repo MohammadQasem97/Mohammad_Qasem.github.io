@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Ph.D. candidate in Electrical Engineering at SMU**. My work blends **electrochemical modeling**, **digital-twin estimation**, and **age-aware BMS control** to enable **safe, fast charging** and longer life for lithium-ion batteries in EVs, e-aviation, and stationary storage.
+🔋I am a **Ph.D. candidate in Electrical Engineering at SMU**. My work blends **real-time electrochemical battery modeling**, **age-aware BMS control**, and **digital-twin estimation**, to enable **safe, fast charging** and longer life for lithium-ion batteries in EVs, eVTOL, and stationary storage.
 
 📄 <a class="btn btn--primary btn--large"
    href="https://MohammadQasem97.github.io/Mohammad_Qasem.github.io/files/MQ_CV.pdf"
@@ -22,22 +22,22 @@ I am a **Ph.D. candidate in Electrical Engineering at SMU**. My work blends **el
 
 <div class="about-split">
   <div>
-    <h3>Interests</h3>
+    <h3>🧠 Interests</h3>
     <ul>
-      <li>⚡ Fast-charging control & age-aware <strong>BMS</strong></li>
-      <li>🧠 Digital twins; AI-based <strong>SoC</strong>/<strong>SoH</strong> estimation</li>
-      <li>🧪 Electrochemical & thermal modeling; HIL validation</li>
-      <li>🌡️ Cell/pack testing, EIS, safety envelopes</li>
-      <li>♻️ Second-life batteries for off-grid and EV charging</li>
+      <li> Age-aware BMS Control and Design</li>
+      <li> Digital twins and AI-based Battery Health Estimation</li>
+      <li> Electrochemical & Thermal Battery Modeling</li>
+      <li> Cell/pack Testing, EIS Testing, and Thermal Runaway</li>
+      <li> Hardware-In-Loop (HIL) Validation</li>
+      <li> Second-life batteries</li>
     </ul>
   </div>
   <div>
-    <h3>Education</h3>
+    <h3>🎓 Education</h3>
     <ul>
-      <li>🎓 **SMU** — Ph.D. candidate, Electrical Engineering</li>
-      <li>🏫 **Illinois Institute of Technology (IIT)** — doctoral research (transferred to SMU)</li>
-      <li>🥇 **PSUT** — M.Sc., Electrical Engineering (first in class)</li>
-      <li>📘 **Al-Balqa’ Applied University (BAU)** — B.Sc., Electrical Power Engineering</li>
+      <li> Ph.D. candidate in Electrical Engineering at SMU, Present</li>
+      <li> M.Sc. in Electrical Engineering at PSUT, 2023</li>
+      <li> B.Sc. in Electrical Power Engineering at BAU, 2019</li>
     </ul>
   </div>
 </div>
