@@ -45,4 +45,4 @@ I am a Ph.D. candidate in Electrical Engineering at SMU. My work blends real-tim
 
 
 ### Recent Awards
-🏆 ITEC+ **Best Student Paper (2025)** · 🏅 **Excellence in Research & Innovation** (SMU) · 🎖️ **Frederick E. Terman Award** (SMU ECE) · 🎓 **Dean’s Moody Dissertation Fellowship**
+🏆 Best Student Paper Award (ITEC+2025) · 🏅 Excellence in Research & Innovation (SMU) · 🎖️ Frederick E. Terman Award (SMU) · 🎓 Dean’s Moody Dissertation Fellowship (SMU)
