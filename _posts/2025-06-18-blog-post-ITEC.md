@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 2'
+title: 'Best Student Paper — ITEC+ 2025'
 date: 2025-06-18
 permalink: /posts/2025-06-18-blog-post-ITEC/
 tags:
@@ -18,8 +18,6 @@ This recognition is a significant milestone in my academic journey, and I’m de
 
 Special thanks to my advisor professor Mahesh Krishnamurthy, co-authors, and the entire ITEC+ community for the engaging discussions and valuable feedback during the session.
 
-<br/><img src='/images/itec2025-certificate.jpg'>
-<br/><img src='/images/itec2025-certificate.jpg'>
-<br/><img src='/images/itec2025-certificate.jpg'>
+<br/><img src='/images/itec2025.png'>
 
 ------
