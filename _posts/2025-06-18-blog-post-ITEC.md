@@ -9,7 +9,7 @@ tags:
   - Awards
 ---
 
-I’m honored to share that I received the Best Student Paper Award at the ITEC+ 2025 IEEE Transportation Electrification Conference and Expo, held in Anaheim, CA. <br/><img src='/images/itec2025.jpg'>
+I’m honored to share that I received the Best Student Paper Award at the ITEC+ 2025 IEEE Transportation Electrification Conference and Expo, held in Anaheim, CA. ![itec2025](https://github.com/user-attachments/assets/bfb29692-fdf3-4b43-a179-e04791bcc4e9)
 
 At this conference, I presented my latest Ph.D. research titled “Analyzing Suitability of Pulsing Techniques for Fast-Charging of Commercial NMC811/Graphite Li-Ion Batteries”, which explores advanced charging strategies to enhance lithium-ion battery performance under fast-charging conditions.
 
@@ -17,7 +17,5 @@ At this conference, I presented my latest Ph.D. research titled “Analyzing Sui
 This recognition is a significant milestone in my academic journey, and I’m deeply grateful to Southern Methodist University (SMU) and the SMU Lyle School of Engineering for their continued support and research environment.
 
 Special thanks to my advisor professor Mahesh Krishnamurthy, co-authors, and the entire ITEC+ community for the engaging discussions and valuable feedback during the session.
-
-![itec2025](https://github.com/user-attachments/assets/bfb29692-fdf3-4b43-a179-e04791bcc4e9)
 
 ------
