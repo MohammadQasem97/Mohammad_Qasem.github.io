@@ -1,4 +1,6 @@
 ---
+![Banner_Website_Blog-28](https://github.com/user-attachments/assets/ea237ca3-913a-45da-85c9-4137b11c0b8e)
+
 permalink: /
 title: "Biography"
 author_profile: true
