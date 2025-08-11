@@ -18,6 +18,8 @@ This recognition is a significant milestone in my academic journey, and I’m de
 
 Special thanks to my advisor professor Mahesh Krishnamurthy, co-authors, and the entire ITEC+ community for the engaging discussions and valuable feedback during the session.
 
+![itec2025](https://github.com/user-attachments/assets/bfb29692-fdf3-4b43-a179-e04791bcc4e9)
+
 <br/><img src='/images/itec2025.jpg'>
 ![ITEC+ 2025 — Best Student Paper]({{ '/images/itec2025.jpg' | relative_url }})
 
