@@ -1,6 +1,6 @@
 ---
 title: "Best Student Paper — ITEC+ 2025"
-excerpt: "Awarded Best Student Paper at ITEC+ 2025 for work on pulsing current fast-charging and battery management.<br/><img src='/images/500x300.png'>"
+excerpt: "Awarded Best Student Paper at ITEC+ 2025 for work on pulsing current fast-charging and battery management.<br/><img src='/images/ITEC.JPG'>"
 collection: portfolio
 ---
 
