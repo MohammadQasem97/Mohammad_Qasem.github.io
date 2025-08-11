@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Banner_Website_Blog-28](https://github.com/user-attachments/assets/127f7ac9-7489-4f07-81e5-a2e51aef9986)
 
 🔋I am a **Ph.D. candidate in Electrical Engineering at SMU**. My work blends **real-time electrochemical battery modeling**, **age-aware BMS control**, and **digital-twin estimation**, to enable **safe, fast charging** and longer life for lithium-ion batteries in EVs, eVTOL, and stationary storage.
 
