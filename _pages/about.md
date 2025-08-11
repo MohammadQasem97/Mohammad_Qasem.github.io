@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 🔋 **Ph.D. Candidate in Electrical Engineering, Southern Methodist University (SMU)**  
-I develop **age-aware battery management and fast-charging methods** by combining **electrochemical modeling**, **digital-twin estimation**, and **real-time control**. My goal is safe, rapid charging that **extends Li-ion battery life** for EVs, e-aviation, and stationary storage.
+I develop **age-aware battery management and fast-charging methods** by combining **electrochemical modeling**, **digital-twin estimation**, and **real-time control**. My goal is safe, rapid charging that **extends Li-ion battery life** for EVs, eVTOL, and stationary storage.
 
 📄 <a class="btn btn--primary btn--large"
    href="https://MohammadQasem97.github.io/Mohammad_Qasem.github.io/files/MQ_CV.pdf"
@@ -40,6 +40,3 @@ I develop **age-aware battery management and fast-charging methods** by combinin
 </div>
 
 <hr/>
-
-### Awards
-🏆 ITEC+ **Best Student Paper (2025)** · 🏅 **Excellence in Research & Innovation** (SMU) · 🎖️ **Frederick E. Terman Award** (SMU ECE) · 🎓 **Dean’s Moody Dissertation Fellowship**
