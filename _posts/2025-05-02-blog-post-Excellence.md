@@ -19,7 +19,7 @@ These recognitions mean a great deal to me and serve as a reminder that hard wor
 
 I’m deeply grateful to my advisor, Prof. Mahesh Krishnamurthy for his consistent guidance, encouragement, and belief in my potential throughout my Ph.D. journey. His mentorship has greatly influenced the way I approach challenges, think critically, and pursue impactful research in my field.
 
-My sincere appreciation goes to the SMU Lyle School of Engineering and the Moody School of Graduate & Advanced Studies | SMU as well as Dean Dr. Nader Jalili of Lyle and Dean Dr. Robin Poston of Moody, for fostering a community that values innovation, academic excellence, and student growth.
+My sincere appreciation goes to the SMU Lyle School of Engineering and the Moody School of Graduate & Advanced Studies SMU as well as Dean Dr. Nader Jalili of Lyle and Dean Dr. Robin Poston of Moody, for fostering a community that values innovation, academic excellence, and student growth.
 
 A special thanks to Dr. Said Al-Hallaj for his continued mentorship and support. His advice has played a key role in shaping my research path and overall development as a scholar.
 
