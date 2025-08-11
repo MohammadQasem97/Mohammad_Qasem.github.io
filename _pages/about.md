@@ -10,7 +10,10 @@ redirect_from:
 🔋 **Ph.D. Candidate in Electrical Engineering, Southern Methodist University (SMU)**  
 I develop **age-aware battery management and fast-charging methods** by combining **electrochemical modeling**, **digital-twin estimation**, and **real-time control**. My goal is safe, rapid charging that **extends Li-ion battery life** for EVs, e-aviation, and stationary storage.
 
-📄 **[Download CV]({{ '/files/Mohammad_Qasem_CV.pdf' | relative_url }})**
+📄 <a class="btn btn--primary btn--large"
+   href="https://MohammadQasem97.github.io/Mohammad_Qasem.github.io/files/MQ_CV.pdf"
+   target="_blank" rel="noopener">Download CV (PDF)</a>
+
 
 <hr/>
 
