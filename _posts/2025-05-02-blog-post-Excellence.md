@@ -1,7 +1,7 @@
 ---
-title: 'Best Student Paper — ITEC+ 2025'
-date: 2025-06-18
-permalink: /posts/2025-06-18-blog-post-ITEC/
+title: 'Excellence in Research & Innovation'
+date: 2025-05-02
+permalink: /posts/2025-05-02-blog-post-Excellence/
 tags:
   - PhDLife
   - AcademicExcellence
