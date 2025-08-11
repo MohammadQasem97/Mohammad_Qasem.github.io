@@ -36,7 +36,8 @@ I am a Ph.D. candidate in Electrical Engineering at SMU. My work blends real-tim
   <div>
     <h3>🎓 Education</h3>
     <ul>
-      <li> Ph.D. candidate in Electrical Engineering at SMU, Present</li>
+      <li> Ph.D. in Electrical Engineering at SMU, Present</li>
+      <li> Ph.D. in Electrical Engineering at IIT (transfered to SMU), 2024</li>
       <li> M.Sc. in Electrical Engineering at PSUT, 2023</li>
       <li> B.Sc. in Electrical Power Engineering at BAU, 2019</li>
     </ul>
