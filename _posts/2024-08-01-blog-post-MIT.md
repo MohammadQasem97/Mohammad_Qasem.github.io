@@ -1,7 +1,7 @@
 ---
 title: 'Recognition at MIT A+B Conference'
 date: 2024-08-01
-permalink: /posts/2024-08-01-beam-global-mit-ab/
+permalink: /posts/2024-08-01-blog-post-MIT/
 tags:
   - BatteryTechnology
   - Innovation
